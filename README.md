@@ -1,13 +1,12 @@
-*This project has been created as part of the 42 curriculum by [Your Login].*
+*This project has been created as part of the 42 curriculum by Isahmed.*
 
 ## Description
-[Write a brief overview of the project here.] 
-The goal of this project is to configure small-scale simulated networks. It involves solving 10 levels of networking problems to ensure the network functions properly. 
+The goal of this project is to configure small-scale simulated networks. It involves solving 10 levels of networking problems to ensure the network functions properly. We do this by changing the submet masks, IP addresses and gateways. The evaluation will assess me on 3 random levels from 6 to 10 which ought to be done in a maximum of 15 minutes. There are 3 of these evaluations. 
 
 ## Instructions
 **How to run the training interface:**
 1. Download and extract the project files.
-2. Run the `run.sh` script to launch the web server and open the interface.
+2. Run the `run.sh` script to launch the web server and open the interface. This can be done by running the command 'bash run.sh'.
 3. If the script fails, manually run `python3 -m http.server 49242` and navigate to `http://localhost:49242` in your browser.
 
 **How to export configurations and submit:**
@@ -21,10 +20,10 @@ The goal of this project is to configure small-scale simulated networks. It invo
 * Subnet masks
 * Default gateways
 * Routers and switches
-* OSI layers
 
 **References:**
-* [Link to any tutorial or documentation you used]
+* https://www.youtube.com/watch?v=s_Ntt6eTn94
+
 
 **AI Usage:**
-* [Explain if/how you used AI. For example: "Used AI to explain the concept of subnet masking, but did not use it to solve the specific levels."]
+I used Gemini 3.1 pro to break down the concepts. I found it difficult to track the number of available hosts per subnet and found the explanations helpful. 
