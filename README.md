@@ -20,6 +20,7 @@ The goal of this project is to configure small-scale simulated networks. It invo
 * Subnet masks
 * Default gateways
 * Routers and switches
+* OSI layers
 
 **References:**
 * https://www.youtube.com/watch?v=s_Ntt6eTn94
